@@ -25,7 +25,7 @@
     "lodash": ">= 4.17.15",
     "array.prototype.find": "1.0.0",
     "moment": "2.19.3",
-    "jquery": "1.9.1",
+    "jquery": "3.5.0",
     "popper.js": "1.14.7"
   },
   "devDependencies": {
